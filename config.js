@@ -1,6 +1,6 @@
 const config = {
 serverID: "809091842691432489",//Sunucu idsi 
-token: "",//Botun tokeni kanks
+token: "",//Botun tokeni 
 ownerID: "345847333113692160", //Bot sahibinin idsi 
 prefix: [".","!"], //prefixler "!ceza bilgi 20" falan  
 voiceID: "873483703924441119", //Botun hangi ses kanalına girecekse o ses kanalının IDsi 
